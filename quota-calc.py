@@ -1,4 +1,4 @@
-#!/usr/bin/python 3
+#!/usr/bin/python3
 
 from __future__ import absolute_import, division, print_function
 
